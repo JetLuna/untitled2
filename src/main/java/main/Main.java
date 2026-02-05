@@ -21,6 +21,6 @@ public class Main {
         Printer printer = new Printer();
         printer.print("a = ", a);
         printer.print("b = ", b);
-        printer.printDateTime("dd.MM.uu");
+        printer.printDateTime("dd-MM-uu");
     }
 }
